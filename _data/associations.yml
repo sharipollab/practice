@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Sustainable Labs Initiative
+  role: Co-Director/Co-Founder
+  year: 2024
+  url: https://www.urmc.rochester.edu/research/center-for-advanced-research-technologies/sustainable-labs-initiative
+  summary: Raising awareness for green lab practices and promoting behavioral changes in clinical and research laboratories
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Micropphysiological Systems Network
+  role: Co-President
+  year: 2023
+  url: blah blah blah
+  summary: Founded a peer-peer trainee group
